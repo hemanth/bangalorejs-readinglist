@@ -10,6 +10,7 @@
 
 
 >Collection of blogs on Promises
+
 | Title  | Author   |
 |--------|----------|
 |[JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)| [Matt Greer](http://mattgreer.org/)
