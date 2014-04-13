@@ -1,3 +1,5 @@
+# This repo is migrated to https://github.com/bangalorejs/reading-list 
+
 > Collection of book suugested by BangaloreJS friends.
 
 
